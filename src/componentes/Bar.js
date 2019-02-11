@@ -8,7 +8,10 @@ class Bar extends Component{
     
         this.state = {
           options: {
+
             chart: {
+              foreColor: '#FF0000',
+              background: '#9900FF',
               id: 'apexchart-example'
             },
             xaxis: {

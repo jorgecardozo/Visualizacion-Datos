@@ -22,7 +22,7 @@ class Columnas extends Component {
         plotOptions: {
             bar: {
             columnWidth: '45%',
-            distributed: true
+            distributed: true,
             }
         },
         dataLabels: {
