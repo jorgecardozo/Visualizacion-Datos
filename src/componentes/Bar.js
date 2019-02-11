@@ -31,3 +31,9 @@ class Bar extends Component{
       }
 }
 export default Bar;
+
+// Esta es la Pagina de donde saque las Visualizaciones de Datos
+// https://apexcharts.com/docs/react-charts/
+
+// Esta es la Página de donde realice el "npm install"
+// https://www.npmjs.com/package/react-apexcharts
